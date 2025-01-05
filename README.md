@@ -5,3 +5,4 @@ The Alex Net model proposed in 2012 has shown good performance in image classifi
 
 This article focuses on the research of image classification based on AlexNet convolutional neural network, and specifically selects the CIFAR-10 dataset as the experimental object, aiming to explore the applicability, performance, and possible optimization strategies of AlexNet network architecture on small-scale datasets. Through in-depth analysis of the network structure of AlexNet, the aim is to reveal how AlexNet extracts effective image features from the CIFAR-10 dataset with limited computing resources and achieves high-precision classification results.
 
+![image](https://github.com/Chris-Zouchenyu/AI-Homework/blob/main/Img2show.png)
