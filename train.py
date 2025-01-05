@@ -97,7 +97,7 @@ for i in range(epoch):
     # targets = torch.tensor([2,0])
     # print((preds == targets).sum())
 # writer.add_graph(n,train_data)
-torch.save(n,'n_100.pth')
+torch.save(n,'n_500.pth')
 writer.close()
 
 
