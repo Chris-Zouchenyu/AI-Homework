@@ -40,7 +40,7 @@ import torch.nn.functional as F
 #     print("第{}轮参数下整体测试集上的loss: {} ".format(i,total_test_loss))
 #     print('第{}轮参数下整体测试集上的正确率:{}'.format(i,total_accuracy/test_data_size))
 
-img_path = r'Deep learning\AI-Homework\ship_test.jpg'
+img_path = 'ship_test.jpg'
 image = Image.open(img_path)
 
 #转换函数 PIL->Tensor 
